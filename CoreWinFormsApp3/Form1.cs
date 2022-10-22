@@ -46,7 +46,6 @@ namespace CoreWinFormsApp3
                     conn.Close();
                 }
             }
-
         }
     }
 }
